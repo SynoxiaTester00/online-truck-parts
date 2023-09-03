@@ -61,7 +61,7 @@
 </head>
 <body>
     <header>
-        <h1>Revolutionizing the Trucking Industry: The Power of Online Truck Parts</h1>
+        <h1>Revolutionizing the Trucking Industry: The Power of <a href="https://buyparts.online">Online Truck Parts</a> </h1>
     </header>
     <div class="container">
         <h2>Introduction</h2>
