@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Revolutionizing the Trucking Industry: The Power of Online Truck Parts</title>
+    <title>Revolutionizing the Trucking Industry: The Power of <a href="https://buyparts.online">Online Truck Parts</a></title>
     <style>
         body {
             font-family: Arial, sans-serif;
